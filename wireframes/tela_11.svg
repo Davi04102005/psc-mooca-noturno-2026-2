@@ -1,0 +1,40 @@
+<svg viewBox="0 0 375 638" xmlns="http://www.w3.org/2000/svg"><rect width="375" height="638" fill="#ffffff"/><rect x="0" y="0" width="375" height="56" rx="0" fill="#fafafa" stroke="#d0d0d0" stroke-width="1.5"/>
+<line x1="16" y1="18" x2="38" y2="18" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="24" x2="38" y2="24" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="30" x2="38" y2="30" stroke="#5f6368" stroke-width="2"/>
+<text x="48" y="24" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">HABIT</text>
+<text x="48" y="36" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__brand</text>
+<circle cx="319" cy="20" r="7" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<line x1="324" y1="25" x2="329" y2="30" stroke="#9aa0a6" stroke-width="2"/>
+<text x="305" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__search-icon</text>
+<rect x="315" y="34" width="44" height="16" rx="8" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="337" y="45" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Entrar</text>
+<text x="315" y="62" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--secondary</text>
+<text x="16" y="66" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultados para: "trabalho remoto"</text>
+<rect x="16" y="88" width="343" height="70" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="96" width="54" height="54" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="88" y="114" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultado 1: título de exemplo</text>
+<text x="88" y="130" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categoria • 31 Jul 2025</text>
+<rect x="16" y="166" width="343" height="70" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="174" width="54" height="54" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="88" y="192" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultado 2: título de exemplo</text>
+<text x="88" y="208" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categoria • 31 Jul 2025</text>
+<rect x="16" y="244" width="343" height="70" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="252" width="54" height="54" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="88" y="270" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultado 3: título de exemplo</text>
+<text x="88" y="286" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categoria • 31 Jul 2025</text>
+<rect x="16" y="322" width="343" height="70" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="330" width="54" height="54" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="88" y="348" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultado 4: título de exemplo</text>
+<text x="88" y="364" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categoria • 31 Jul 2025</text>
+<rect x="16" y="400" width="343" height="70" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="408" width="54" height="54" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="88" y="426" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultado 5: título de exemplo</text>
+<text x="88" y="442" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categoria • 31 Jul 2025</text>
+<rect x="16" y="478" width="343" height="70" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="486" width="54" height="54" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="88" y="504" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Resultado 6: título de exemplo</text>
+<text x="88" y="520" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categoria • 31 Jul 2025</text>
+<text x="16" y="562" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card--compact (variação usada em lista de resultados)</text>
+<line x1="16" y1="576" x2="359" y2="576" stroke="#e0e0e0" stroke-width="2"/>
+<text x="187.5" y="594" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">footer (links institucionais)</text></svg>

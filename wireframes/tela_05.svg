@@ -1,0 +1,76 @@
+<svg viewBox="0 0 375 632" xmlns="http://www.w3.org/2000/svg"><rect width="375" height="632" fill="#ffffff"/><rect x="0" y="0" width="375" height="56" rx="0" fill="#fafafa" stroke="#d0d0d0" stroke-width="1.5"/>
+<line x1="16" y1="18" x2="38" y2="18" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="24" x2="38" y2="24" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="30" x2="38" y2="30" stroke="#5f6368" stroke-width="2"/>
+<text x="48" y="24" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">HABIT</text>
+<text x="48" y="36" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__brand</text>
+<circle cx="319" cy="20" r="7" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<line x1="324" y1="25" x2="329" y2="30" stroke="#9aa0a6" stroke-width="2"/>
+<text x="305" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__search-icon</text>
+<circle cx="351" cy="20" r="9" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="335" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__avatar</text>
+<rect x="16" y="66" width="98" height="26" rx="13" fill="#1a73e8" stroke="#1a73e8" stroke-width="1.5"/>
+<text x="65.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#fff" text-anchor="middle">Categorias</text>
+<rect x="120" y="66" width="98" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="169.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Criar Post</text>
+<rect x="224" y="66" width="66" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="257.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editor</text>
+<rect x="296" y="66" width="82" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="337.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Usuários</text>
+<rect x="16" y="98" width="74" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="53.0" y="115" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Revisão</text>
+<rect x="96" y="98" width="106" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="149.0" y="115" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Comentários</text>
+<text x="16" y="136" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.navigation--admin-tabs (substitui sidebar)</text>
+<rect x="16.0" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="55.875" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">128</text>
+<text x="55.875" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Posts</text>
+<rect x="103.75" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="143.625" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">54k</text>
+<text x="143.625" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Views</text>
+<rect x="191.5" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="231.375" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">12k</text>
+<text x="231.375" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Inscr.</text>
+<rect x="279.25" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="319.125" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">7</text>
+<text x="319.125" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Pend.</text>
+<text x="16" y="202" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.indicator</text>
+<text x="16" y="210" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categorias</text>
+<rect x="16" y="232" width="343" height="32" rx="16" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="28" y="252" font-family="Helvetica,Arial,sans-serif" font-size="9" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Buscar categorias...</text>
+<text x="16" y="274" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.search__input</text>
+<rect x="16" y="282" width="343" height="56" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="26" y="300" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categoria #1</text>
+<text x="26" y="314" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">—</text>
+<rect x="279" y="312" width="72" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="315.0" y="325" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Excluir</text>
+<rect x="209" y="312" width="64" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="241.0" y="325" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editar</text>
+<rect x="16" y="346" width="343" height="56" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="26" y="364" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categoria #2</text>
+<text x="26" y="378" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">—</text>
+<rect x="279" y="376" width="72" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="315.0" y="389" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Excluir</text>
+<rect x="209" y="376" width="64" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="241.0" y="389" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editar</text>
+<rect x="16" y="410" width="343" height="56" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="26" y="428" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categoria #3</text>
+<text x="26" y="442" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">—</text>
+<rect x="279" y="440" width="72" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="315.0" y="453" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Excluir</text>
+<rect x="209" y="440" width="64" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="241.0" y="453" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editar</text>
+<rect x="16" y="474" width="343" height="56" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="26" y="492" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categoria #4</text>
+<text x="26" y="506" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">—</text>
+<rect x="279" y="504" width="72" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="315.0" y="517" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Excluir</text>
+<rect x="209" y="504" width="64" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="241.0" y="517" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editar</text>
+<rect x="16" y="538" width="343" height="56" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="26" y="556" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categoria #5</text>
+<text x="26" y="570" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">—</text>
+<rect x="279" y="568" width="72" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="315.0" y="581" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Excluir</text>
+<rect x="209" y="568" width="64" height="18" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="241.0" y="581" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editar</text></svg>

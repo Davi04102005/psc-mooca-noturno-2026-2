@@ -1,0 +1,49 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.form__field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.form__label {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+.form__input,
+.form__textarea {
+  width: 100%;
+  padding: var(--space-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-base);
+  font-family: inherit;
+  /* impede que o zoom automático do iOS dispare em inputs < 16px */
+  font-size: max(var(--font-size-base), 1rem);
+}
+
+.form__textarea {
+  min-height: 8rem;
+  resize: vertical;
+}
+
+.form__checkbox-row {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-sm);
+}
+
+.form__checkbox-row .form__label {
+  font-size: var(--font-size-sm);
+}
+
+.form--post .form__row {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}

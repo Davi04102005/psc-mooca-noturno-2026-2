@@ -1,0 +1,30 @@
+status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.125rem var(--space-sm);
+  border-radius: var(--radius-pill);
+  font-size: 0.6875rem;
+  font-weight: 600;
+  border: 1px solid currentColor;
+  width: fit-content;
+}
+
+.status--draft {
+  color: var(--color-status-draft);
+}
+
+.status--published {
+  color: var(--color-status-published);
+}
+
+.status--pending {
+  color: var(--color-status-pending);
+}
+
+.status--active {
+  color: var(--color-status-active);
+}
+
+.status--blocked {
+  color: var(--color-status-blocked);
+}

@@ -1,0 +1,71 @@
+<svg viewBox="0 0 375 976" xmlns="http://www.w3.org/2000/svg"><rect width="375" height="976" fill="#ffffff"/><rect x="0" y="0" width="375" height="56" rx="0" fill="#fafafa" stroke="#d0d0d0" stroke-width="1.5"/>
+<line x1="16" y1="18" x2="38" y2="18" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="24" x2="38" y2="24" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="30" x2="38" y2="30" stroke="#5f6368" stroke-width="2"/>
+<text x="48" y="24" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">HABIT</text>
+<text x="48" y="36" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__brand</text>
+<circle cx="319" cy="20" r="7" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<line x1="324" y1="25" x2="329" y2="30" stroke="#9aa0a6" stroke-width="2"/>
+<text x="305" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__search-icon</text>
+<rect x="315" y="34" width="44" height="16" rx="8" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="337" y="45" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Entrar</text>
+<text x="315" y="62" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--secondary</text>
+<text x="16" y="66" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Navegue por tópicos de interesse</text>
+<rect x="16" y="88" width="343" height="70" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<rect x="16" y="168" width="150" height="34" rx="6" fill="#1a73e8" stroke="none" stroke-width="1.5"/>
+<text x="91.0" y="189.0" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="normal" font-style="normal" fill="#ffffff" text-anchor="middle">Explorar categorias</text>
+<text x="16" y="212" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--primary</text>
+<rect x="176" y="168" width="150" height="34" rx="6" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="251.0" y="189.0" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Assine a newsletter</text>
+<text x="176" y="212" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--secondary</text>
+<text x="16" y="224" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Categorias Populares</text>
+<rect x="16.0" y="246" width="343.0" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="24.0" y="264" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Work</text>
+<line x1="24.0" y1="272" x2="220.2" y2="272" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="309" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--compact</text>
+<rect x="16.0" y="326" width="343.0" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="24.0" y="344" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Books</text>
+<line x1="24.0" y1="352" x2="220.2" y2="352" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="389" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--compact</text>
+<rect x="16.0" y="406" width="343.0" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="24.0" y="424" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Techno</text>
+<line x1="24.0" y1="432" x2="220.2" y2="432" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="469" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--compact</text>
+<text x="16" y="492" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Todas as Categorias</text>
+<rect x="16" y="508" width="74" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="53.0" y="524" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Negócios</text>
+<rect x="96" y="508" width="60" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="126.0" y="524" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Techno</text>
+<rect x="162" y="508" width="109" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="216.5" y="524" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Produtividade</text>
+<rect x="277" y="508" width="60" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="307.0" y="524" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Filmes</text>
+<text x="16" y="542" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.chip (scroll horizontal)</text>
+<rect x="16" y="514" width="81" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="56.5" y="530" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Lifestyle</text>
+<rect x="103" y="514" width="74" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="140.0" y="530" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Educação</text>
+<rect x="183" y="514" width="67" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="216.5" y="530" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Mailing</text>
+<rect x="256" y="514" width="81" height="24" rx="12" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="296.5" y="530" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">eCommerce</text>
+<text x="16" y="548" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.chip (scroll horizontal)</text>
+<text x="16" y="524" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Postagens em Destaque</text>
+<rect x="16.0" y="546" width="343.0" height="110" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="554" width="327.0" height="52.50000000000001" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="628.5" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Erros de Design que Todos Devem Evitar</text>
+<line x1="24.0" y1="636.5" x2="220.2" y2="636.5" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="345.0" y="562" font-family="Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" font-style="normal" fill="#1a73e8" text-anchor="start">★</text>
+<text x="16.0" y="665" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<rect x="16.0" y="682" width="343.0" height="110" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="690" width="327.0" height="52.50000000000001" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="764.5" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">As Maiores Empresas por Receita</text>
+<line x1="24.0" y1="772.5" x2="220.2" y2="772.5" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="801" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<text x="16" y="824" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Escolhas do Editor</text>
+<text x="16" y="846" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="start">• O uso negativo da internet</text>
+<text x="16" y="862" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="start">• O segredo do brainstorm</text>
+<text x="16" y="878" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="start">• Escalar para pequenos negócios</text>
+<text x="16" y="904" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.list (compact) — reaproveita list__item</text>
+<line x1="16" y1="914" x2="359" y2="914" stroke="#e0e0e0" stroke-width="2"/>
+<text x="187.5" y="932" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">footer (links institucionais)</text></svg>

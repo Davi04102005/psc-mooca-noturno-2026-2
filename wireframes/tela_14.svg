@@ -1,0 +1,46 @@
+<svg viewBox="0 0 375 660" xmlns="http://www.w3.org/2000/svg"><rect width="375" height="660" fill="#ffffff"/><rect x="0" y="0" width="375" height="56" rx="0" fill="#fafafa" stroke="#d0d0d0" stroke-width="1.5"/>
+<line x1="16" y1="18" x2="38" y2="18" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="24" x2="38" y2="24" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="30" x2="38" y2="30" stroke="#5f6368" stroke-width="2"/>
+<text x="48" y="24" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">HABIT</text>
+<text x="48" y="36" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__brand</text>
+<circle cx="319" cy="20" r="7" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<line x1="324" y1="25" x2="329" y2="30" stroke="#9aa0a6" stroke-width="2"/>
+<text x="305" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__search-icon</text>
+<circle cx="351" cy="20" r="9" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="335" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__avatar</text>
+<text x="16" y="66" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Perfil</text>
+<rect x="16" y="88" width="343" height="70" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="16" y="164" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Nome</text>
+<rect x="16" y="168" width="343" height="30" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="16" y="208" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.form__input</text>
+<text x="16" y="208" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Bio</text>
+<rect x="16" y="212" width="343" height="30" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="16" y="252" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.form__input</text>
+<rect x="16" y="258" width="90" height="30" rx="6" fill="#1a73e8" stroke="none" stroke-width="1.5"/>
+<text x="61.0" y="277.0" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="normal" font-style="normal" fill="#ffffff" text-anchor="middle">Salvar</text>
+<text x="16" y="298" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--primary</text>
+<text x="16" y="308" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Suas Postagens</text>
+<rect x="16" y="330" width="343" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="338" width="40" height="38" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<rect x="74" y="340" width="62" height="16" rx="8" fill="none" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="105" y="351" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#9aa0a6" text-anchor="middle">Rascunho</text>
+<text x="74" y="370" font-family="Helvetica,Arial,sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Post 1</text>
+<rect x="16" y="392" width="343" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="400" width="40" height="38" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<rect x="74" y="402" width="62" height="16" rx="8" fill="none" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="105" y="413" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#1e8e3e" text-anchor="middle">Publicado</text>
+<text x="74" y="432" font-family="Helvetica,Arial,sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Post 2</text>
+<rect x="16" y="454" width="343" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="462" width="40" height="38" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<rect x="74" y="464" width="62" height="16" rx="8" fill="none" stroke="#f9ab00" stroke-width="1.5"/>
+<text x="105" y="475" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#f9ab00" text-anchor="middle">Em análise</text>
+<text x="74" y="494" font-family="Helvetica,Arial,sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Comentário 1</text>
+<rect x="16" y="516" width="343" height="54" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<rect x="24" y="524" width="40" height="38" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<rect x="74" y="526" width="62" height="16" rx="8" fill="none" stroke="#1e8e3e" stroke-width="1.5"/>
+<text x="105" y="537" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#1e8e3e" text-anchor="middle">Publicado</text>
+<text x="74" y="556" font-family="Helvetica,Arial,sans-serif" font-size="9" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Comentário 2</text>
+<text x="16" y="584" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card--compact + .status (estado do conteúdo)</text>
+<line x1="16" y1="598" x2="359" y2="598" stroke="#e0e0e0" stroke-width="2"/>
+<text x="187.5" y="616" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">footer (links institucionais)</text></svg>

@@ -1,0 +1,59 @@
+<svg viewBox="0 0 375 518" xmlns="http://www.w3.org/2000/svg"><rect width="375" height="518" fill="#ffffff"/><rect x="0" y="0" width="375" height="56" rx="0" fill="#fafafa" stroke="#d0d0d0" stroke-width="1.5"/>
+<line x1="16" y1="18" x2="38" y2="18" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="24" x2="38" y2="24" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="30" x2="38" y2="30" stroke="#5f6368" stroke-width="2"/>
+<text x="48" y="24" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">HABIT</text>
+<text x="48" y="36" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__brand</text>
+<circle cx="319" cy="20" r="7" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<line x1="324" y1="25" x2="329" y2="30" stroke="#9aa0a6" stroke-width="2"/>
+<text x="305" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__search-icon</text>
+<circle cx="351" cy="20" r="9" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="335" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__avatar</text>
+<rect x="16" y="66" width="98" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="65.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Categorias</text>
+<rect x="120" y="66" width="98" height="26" rx="13" fill="#1a73e8" stroke="#1a73e8" stroke-width="1.5"/>
+<text x="169.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#fff" text-anchor="middle">Criar Post</text>
+<rect x="224" y="66" width="66" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="257.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Editor</text>
+<rect x="296" y="66" width="82" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="337.0" y="83" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Usuários</text>
+<rect x="16" y="98" width="74" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="53.0" y="115" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Revisão</text>
+<rect x="96" y="98" width="106" height="26" rx="13" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="149.0" y="115" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Comentários</text>
+<text x="16" y="136" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.navigation--admin-tabs (substitui sidebar)</text>
+<rect x="16.0" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="55.875" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">128</text>
+<text x="55.875" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Posts</text>
+<rect x="103.75" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="143.625" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">54k</text>
+<text x="143.625" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Views</text>
+<rect x="191.5" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="231.375" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">12k</text>
+<text x="231.375" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Inscr.</text>
+<rect x="279.25" y="144" width="79.75" height="46" rx="4" fill="none" stroke="#d0d0d0" stroke-width="1.5"/>
+<text x="319.125" y="164" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" font-style="normal" fill="#202124" text-anchor="middle">7</text>
+<text x="319.125" y="180" font-family="Helvetica,Arial,sans-serif" font-size="6.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">Pend.</text>
+<text x="16" y="202" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.indicator</text>
+<text x="16" y="210" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Criar Post</text>
+<text x="16" y="234" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Título</text>
+<rect x="16" y="238" width="343" height="30" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="16" y="278" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.form__input</text>
+<rect x="16" y="278" width="343" height="90" rx="0" fill="none" stroke="#5f6368" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="24" y="294" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Escreva aqui... (editor simulador)</text>
+<text x="16" y="378" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.form__textarea</text>
+<text x="16" y="382" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Categorias e tags</text>
+<rect x="16" y="386" width="166.5" height="30" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="16" y="426" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.form__input</text>
+<text x="192.5" y="382" font-family="Helvetica,Arial,sans-serif" font-size="8.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="start">Imagem de capa</text>
+<rect x="192.5" y="386" width="166.5" height="30" rx="4" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="192.5" y="426" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.form__input</text>
+<rect x="16" y="434" width="110" height="32" rx="6" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="71.0" y="454.0" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Rascunho</text>
+<text x="16" y="476" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--secondary</text>
+<rect x="132" y="434" width="110" height="32" rx="6" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="187.0" y="454.0" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Revisão</text>
+<text x="132" y="476" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--secondary</text>
+<rect x="248" y="434" width="111" height="32" rx="6" fill="#1a73e8" stroke="none" stroke-width="1.5"/>
+<text x="303.5" y="454.0" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="normal" font-style="normal" fill="#ffffff" text-anchor="middle">Publicar</text>
+<text x="248" y="476" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--primary</text></svg>

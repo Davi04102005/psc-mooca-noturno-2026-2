@@ -1,0 +1,45 @@
+<svg viewBox="0 0 375 936" xmlns="http://www.w3.org/2000/svg"><rect width="375" height="936" fill="#ffffff"/><rect x="0" y="0" width="375" height="56" rx="0" fill="#fafafa" stroke="#d0d0d0" stroke-width="1.5"/>
+<line x1="16" y1="18" x2="38" y2="18" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="24" x2="38" y2="24" stroke="#5f6368" stroke-width="2"/>
+<line x1="16" y1="30" x2="38" y2="30" stroke="#5f6368" stroke-width="2"/>
+<text x="48" y="24" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">HABIT</text>
+<text x="48" y="36" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__brand</text>
+<circle cx="319" cy="20" r="7" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<line x1="324" y1="25" x2="329" y2="30" stroke="#9aa0a6" stroke-width="2"/>
+<text x="305" y="40" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.header__search-icon</text>
+<rect x="315" y="34" width="44" height="16" rx="8" fill="none" stroke="#5f6368" stroke-width="1.5"/>
+<text x="337" y="45" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="normal" fill="#202124" text-anchor="middle">Entrar</text>
+<text x="315" y="62" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.button--secondary</text>
+<text x="16" y="66" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaques</text>
+<rect x="16.0" y="88" width="343.0" height="104" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="96" width="327.0" height="49.2" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="167.2" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaque 1</text>
+<line x1="24.0" y1="175.2" x2="220.2" y2="175.2" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="201" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<rect x="16.0" y="218" width="343.0" height="104" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="226" width="327.0" height="49.2" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="297.2" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaque 2</text>
+<line x1="24.0" y1="305.2" x2="220.2" y2="305.2" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="331" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<rect x="16.0" y="348" width="343.0" height="104" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="356" width="327.0" height="49.2" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="427.2" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaque 3</text>
+<line x1="24.0" y1="435.2" x2="220.2" y2="435.2" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="461" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<rect x="16.0" y="478" width="343.0" height="104" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="486" width="327.0" height="49.2" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="557.2" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaque 4</text>
+<line x1="24.0" y1="565.2" x2="220.2" y2="565.2" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="591" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<rect x="16.0" y="608" width="343.0" height="104" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="616" width="327.0" height="49.2" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="687.2" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaque 5</text>
+<line x1="24.0" y1="695.2" x2="220.2" y2="695.2" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="721" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<rect x="16.0" y="738" width="343.0" height="104" rx="4" fill="none" stroke="#1a73e8" stroke-width="2"/>
+<rect x="24.0" y="746" width="327.0" height="49.2" rx="0" fill="#e8eaed" stroke="none" stroke-width="1.5"/>
+<text x="24.0" y="817.2" font-family="Helvetica,Arial,sans-serif" font-size="9.5" font-weight="bold" font-style="normal" fill="#202124" text-anchor="start">Destaque 6</text>
+<line x1="24.0" y1="825.2" x2="220.2" y2="825.2" stroke="#9aa0a6" stroke-width="1.5"/>
+<text x="16.0" y="851" font-family="Helvetica,Arial,sans-serif" font-size="8" font-weight="normal" font-style="italic" fill="#8a8f98" text-anchor="start">.card card--featured</text>
+<line x1="16" y1="874" x2="359" y2="874" stroke="#e0e0e0" stroke-width="2"/>
+<text x="187.5" y="892" font-family="Helvetica,Arial,sans-serif" font-size="7.5" font-weight="normal" font-style="normal" fill="#8a8f98" text-anchor="middle">footer (links institucionais)</text></svg>
