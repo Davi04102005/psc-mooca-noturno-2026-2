@@ -14,8 +14,7 @@ BEM) que dará suporte à futura implementação da aplicação em React.
 - [ ] Nome 4 — Gustavo Andrade Bernardo             usuário GitHub: https://github.com/Gustavo777o
 - [ ] Nome 5 — Luis Felipe dos Santos Camargo       usuário GitHub: https://github.com/Luis-Camargo392 
 
-*(preencher antes da entrega — todos devem participar via commits no
-repositório)*
+
 
 ## Sobre a aplicação
 
