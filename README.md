@@ -1,18 +1,18 @@
-# Habit — Protótipo Mobile e Organização dos Estilos com BEM
+## Habit — Protótipo Mobile e Organização dos Estilos com BEM
 
 Atividade da disciplina **Desenvolvimento Mobile** — etapa de organização visual
 (wireframes mobile em baixa fidelidade + estrutura inicial de estilos CSS com
-BEM) que dará suporte à futura implementação da aplicação em React.
+BEM) está etapa servirá como base para as próximas fases de desenvolvimento da aplicação em React.
 
 > Entrega: 07/09/2026
 
 ## Integrantes
 
-- [ ] Nome 1 — Davi Feliciano Mendonca da Silva     usuário GitHub: https://github.com/Davi04102005
-- [ ] Nome 2 — Eduardo de Oliveira dos Reis Barbosa usuário GitHub: https://github.com/EduardoOliveira1301 
-- [ ] Nome 3 — Guilherme Pereira da Silva           usuário GitHub: https://github.com/Gr-dev2007 
-- [ ] Nome 4 — Gustavo Andrade Bernardo             usuário GitHub: https://github.com/Gustavo777o
-- [ ] Nome 5 — Luis Felipe dos Santos Camargo       usuário GitHub: https://github.com/Luis-Camargo392 
+— Davi Feliciano Mendonca da Silva     usuário GitHub: https://github.com/Davi04102005
+— Eduardo de Oliveira dos Reis Barbosa usuário GitHub: https://github.com/EduardoOliveira1301 
+— Guilherme Pereira da Silva           usuário GitHub: https://github.com/Gr-dev2007 
+— Gustavo Andrade Bernardo             usuário GitHub: https://github.com/Gustavo777o
+— Luis Felipe dos Santos Camargo       usuário GitHub: https://github.com/Luis-Camargo392 
 
 *(preencher antes da entrega — todos devem participar via commits no
 repositório)*
